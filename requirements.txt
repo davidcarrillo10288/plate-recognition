@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+ultralytics
+easyocr
+opencv-python
+matplotlib
+numpy
+streamlit
+requests
+pillow
