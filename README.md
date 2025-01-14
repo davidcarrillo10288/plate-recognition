@@ -40,12 +40,20 @@ Este proyecto consiste en detectar placas de vehículos en imágenes, combinando
 * VS code: IDE para Desarrollar el script y prueba.
 * CMDER: consola.
 
+## Próximos pasos 🚀
+* Mejorar la precisión del modelo con más datos.
+* Extender el soporte a videos para detección en tiempo real.
+* Integrar una funcionalidad OCR para extraer el texto de las placas detectadas.
+
 ## Cómo usar este proyecto 🚀
 
-### 1. Clonar el repositorio
-
+### Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/plate-detection-web-app.git
+git clone https://github.com/davidcarrillo10288/plate-recognition.git
 cd plate-detection-web-app```
 
-### 2. 
+## Asegúrate de tener Python 3.8+ instalado y ejecuta
+pip install -r requirements.txt
+
+## Ejecuta la app.
+streamlit run app.py
