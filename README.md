@@ -42,8 +42,10 @@ Este proyecto consiste en detectar placas de vehículos en imágenes, combinando
 
 ## Cómo usar este proyecto 🚀
 
-### Clonar el repositorio
+### 1. Clonar el repositorio
 
 ```bash
 git clone https://github.com/tu-usuario/plate-detection-web-app.git
-cd plate-detection-web-app
+cd plate-detection-web-app```
+
+### 2. 
