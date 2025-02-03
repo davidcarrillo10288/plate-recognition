@@ -50,10 +50,15 @@ Este proyecto consiste en detectar placas de vehículos en imágenes, combinando
 ### Clonar el repositorio
 ```bash
 git clone https://github.com/davidcarrillo10288/plate-recognition.git
-cd plate-detection-web-app```
+cd plate-detection-web-app
+```
 
 ## Asegúrate de tener Python 3.8+ instalado y ejecuta
+```bash
 pip install -r requirements.txt
+```
 
 ## Ejecuta la app.
+```bash
 streamlit run app.py
+```
