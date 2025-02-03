@@ -53,12 +53,12 @@ git clone https://github.com/davidcarrillo10288/plate-recognition.git
 cd plate-detection-web-app
 ```
 
-## Asegúrate de tener Python 3.8+ instalado y ejecuta
+### Asegúrate de tener Python 3.8+ instalado y ejecuta
 ```bash
 pip install -r requirements.txt
 ```
 
-## Ejecuta la app.
+### Ejecuta la app.
 ```bash
 streamlit run app.py
 ```
